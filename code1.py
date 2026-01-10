@@ -15,12 +15,9 @@ if __name__ == "__main__":
     n = int(input("Total Numbers for Array: "))
     arr = list(map(int, input ("Enter the array: ").split()))
     print(findSecondlargest(arr))
-
-
-
-
-
-#OUTPUT:
+    
+    
+    #OUTPUT:
 #Total Numbers for Array: 6
 #Enter the array: 1 2 6 0 0 3
 #3
