@@ -18,4 +18,10 @@ arr = list(map(int, input("Enter The Array: ").split()))
 print (findThirdlargest(arr))
 
 
+     #OUTPUT:
+#Total Numbers In The Array: 6
+#Enter The Array: 1  28 900 34 6 0
+#28
+
+
     
