@@ -17,6 +17,13 @@ if __name__ == "__main__":
     print(findSecondlargest(arr))
 
 
+
+
+
+#OUTPUT:
+#Total Numbers for Array: 6
+#Enter the array: 1 2 6 0 0 3
+#3
     
     
 
